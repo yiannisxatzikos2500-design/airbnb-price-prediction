@@ -1,8 +1,8 @@
-# Copenhagen Airbnb Price Prediction
+#Airbnb Price Prediction
 
 This project develops a predictive model for Airbnb listing prices in Copenhagen, Denmark. It utilizes the Inside Airbnb dataset and implements a full data science workflow from automated data ingestion to hyperparameter tuning.
 
-## 🚀 Project Overview
+## Project Overview
 The goal is to provide accurate price estimates for property listings based on features like location (latitude/longitude), property type, and guest amenities.
 
 ### Key Features:
@@ -16,7 +16,7 @@ The goal is to provide accurate price estimates for property listings based on f
 - **Optimization:** Hyperparameter tuning performed via **Optuna**.
 - **Geospatial Analysis:** Visualizes price distribution using **Folium** and calculates distances with **Geopy**.
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
    ```bash
